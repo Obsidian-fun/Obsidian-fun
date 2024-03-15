@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Obsidian-fun
+- 👋 Hi, I’m Obsidian
+- 👀 I’m interested in building cool web applications across the Worldwide Super Highway.
+- 🌱 I’m currently learning Networking in Golang
+- 💞️ I’m looking to collaborate on real time web applications
+- 📫 You can reach me at obsidiancrystal@tutanota.com , let's work!
 <!---
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
 - ⚡ Fun fact: ...
 --->
 <!---
