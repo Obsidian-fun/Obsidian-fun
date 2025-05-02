@@ -2,8 +2,9 @@
   <img src="ish.gif" alt="information super highway"/>
 </p>
 
+<p align="center">
 ![email-transparent](https://github.com/user-attachments/assets/28af5dfa-e3fc-4f9e-837b-433b7a163edd)
-
+</p>
 
 
 <!---
